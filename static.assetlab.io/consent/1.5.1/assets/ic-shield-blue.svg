@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-shield-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ic-shield-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.500000, 0.000000)" fill-rule="nonzero">
+            <path d="M11.5,24 C11.5,23.9923636 0,20.2181818 0,4.94545455 L11.5,0 L23,4.94545455 C23,20.2181818 11.5,24 11.5,24 Z" id="Shape" fill="#137BCF"></path>
+            <g id="Group-8" transform="translate(6.000000, 5.000000)" fill="#FFFFFF">
+                <path d="M5.72916667,0 C4.10416667,0 2.75,1.3909465 2.75,3.12962963 C2.75,4.86831276 4.07407407,6.25925926 5.72916667,6.25925926 C7.38425926,6.25925926 8.70833333,4.86831276 8.70833333,3.12962963 C8.70833333,1.3909465 7.38425926,0 5.72916667,0 Z" id="Shape"></path>
+                <path d="M8.32768362,7.22222222 L2.67231638,7.22222222 C1.21186441,7.22222222 0,8.54484605 0,10.2155288 L0,11.5555556 C1.84144763,12.5185185 3.67767893,13 5.50869389,13 C7.33970886,13 9.17014422,12.5185185 11,11.5555556 L11,10.2155288 C11,8.54484605 9.85028249,7.22222222 8.32768362,7.22222222 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
